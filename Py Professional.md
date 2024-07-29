@@ -1,24 +1,25 @@
 # Py Professional
 
-[面向对象](Py%20Professional/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%207f5f6f4858f948e0918ce70603f2db53.md)
+[面向对象](Py%20Professional/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
 
-[装饰器](Py%20Professional%20e3398d0272034f4e9588f3d153169850/%E8%A3%85%E9%A5%B0%E5%99%A8%2046e861cdd74d4a0082f404f2329db593.md)
+[装饰器](Py%20Professional/%E8%A3%85%E9%A5%B0%E5%99%A8.md)
 
-[生成器](Py%20Professional%20e3398d0272034f4e9588f3d153169850/%E7%94%9F%E6%88%90%E5%99%A8%2010e9a08caa83473a80f97748077c3b66.md)
+[生成器](Py%20Professional/%E7%94%9F%E6%88%90%E5%99%A8.md)
 
-[递归](Py%20Professional%20e3398d0272034f4e9588f3d153169850/%E9%80%92%E5%BD%92%20bc2f70de7d5a4c00bda04b8823deccff.md)
+[递归](Py%20Professional/%E9%80%92%E5%BD%92.md)
 
-[闭包](Py%20Professional%20e3398d0272034f4e9588f3d153169850/%E9%97%AD%E5%8C%85%20661748d2d0244a29be8eeab007ecab9b.md)
+[闭包](Py%20Professional/%E9%97%AD%E5%8C%85.md)
 
-[进程&线程&协程](Py%20Professional%20e3398d0272034f4e9588f3d153169850/%E8%BF%9B%E7%A8%8B&%E7%BA%BF%E7%A8%8B&%E5%8D%8F%E7%A8%8B%2027605669fc6e4b5b9d106216a7e02feb.md)
+[进程&线程&协程](Py%20Professional/%E8%BF%9B%E7%A8%8B&%E7%BA%BF%E7%A8%8B&%E5%8D%8F%E7%A8%8B.md)
 
-[模块](Py%20Professional%20e3398d0272034f4e9588f3d153169850/%E6%A8%A1%E5%9D%97%20147014a42f4a4230baa86eebb086acde.md)
+[模块](Py%20Professional/%E6%A8%A1%E5%9D%97.md)
 
-[IO编程](Py%20Professional%20e3398d0272034f4e9588f3d153169850/IO%E7%BC%96%E7%A8%8B%2034e5be23a5a840a5abd576ca035ee60e.md)
+[IO编程](Py%20Professional/IO%E7%BC%96%E7%A8%8B.md)
 
-[网络编程](Py%20Professional%20e3398d0272034f4e9588f3d153169850/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%2047cd1d26461b438bb1e8fa7f29dac0b8.md)
+[网络编程](Py%20Professional/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.md)
 
-[设计模式](Py%20Professional%20e3398d0272034f4e9588f3d153169850/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%202fa71368be7a4953811f59250f14383a.md)
+[设计模式](Py%20Professional/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+
 
 迭代器
 
